@@ -1,0 +1,6 @@
+job_id,title,company,description,salary,email,location
+1,Software Engineer,TechNova,"We are hiring a Software Engineer. Pay a registration fee of $500 to proceed with your application. Contact us immediately through WhatsApp.",120000,hr@technova.com,Hyderabad
+2,Data Analyst,DataWorks,"We are looking for a Data Analyst with SQL and Python skills. Candidates can apply through our official careers portal.",800000,careers@dataworks.com,Bangalore
+3,Frontend Developer,QuickHire,"Urgent hiring! Earn $150000 per year with no experience required. Send your personal details and bank information to proceed.",150000,quickhire@gmail.com,Remote
+4,Backend Developer,CodeSphere,"Backend developer required. Apply through our company careers page. Knowledge of Java and SQL preferred.",900000,jobs@codesphere.com,Hyderabad
+5,Work From Home,Unknown,"Work from home and earn $10000 per week. Pay a small processing fee today to secure your position. Contact us on Telegram.",5200000,joboffer@yahoo.com,Remote
